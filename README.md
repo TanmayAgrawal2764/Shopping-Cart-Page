@@ -1,5 +1,6 @@
 # Shopping-Cart-Page
-
+This the live demo of the project:-
+https://dlwngv.csb.app/
 This project is a simple React-based shopping cart application. It allows users to view a list of products, add them to the cart, and see a summary of their selected items.
 
 ## Table of Contents
