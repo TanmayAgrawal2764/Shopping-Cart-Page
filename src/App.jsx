@@ -31,7 +31,7 @@ function App() {
       ? settotal((pre) => {
           return {
             ["price"]: Math.round((pre.price - d[1]) * 100) / 100,
-            ["count"]: pre.count + 1,
+            ["count"]: pre.count - 1,
           };
         })
       : settotal((pre) => {
